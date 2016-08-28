@@ -880,8 +880,12 @@ tbody {
   background-color: rgba(255, 255, 255, 0.8);
 }
 .dark-translucent-bg:after {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.4);
 }
+.dark-translucent2-bg:after {
+  background-color: rgba(0, 0, 0);
+}
+
 .dark-translucent-bg.hovered:hover:after {
   background-color: rgba(0, 0, 0, 0.6);
 }
